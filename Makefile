@@ -1,4 +1,4 @@
 all:
 	git checkout master -- build \
 		&& mv build/* . \
-		&& rm -r build
+		&& git rm -r build
