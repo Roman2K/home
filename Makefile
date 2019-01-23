@@ -18,4 +18,7 @@ lint-html:
 lint-css:
 	lessc src/css/index.less > /dev/null
 
+serve:
+	cd build && python3 -m http.server 8080
+
 .PHONY:
