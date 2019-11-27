@@ -6,58 +6,47 @@ I hereby claim:
 
   * I am an admin of http://romanlenegrate.net
   * I am roman2k (https://keybase.io/roman2k) on keybase.
-  * I have a public key with fingerprint D160 92CB A8F8 0399 08B9  6C79 F722 EFA0 0082 8C1D
+  * I have a public key ASBGMAYC8CDcDDWTeHlK-mUo_fZumJOhIz-wCqbD1sx5hQo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "010146fe54bc551f2f6c2222ef35e6dd1deb7488ce42819a750c77c993db9808ac8d0a",
-            "fingerprint": "d16092cba8f8039908b96c79f722efa000828c1d",
-            "host": "keybase.io",
-            "key_id": "f722efa000828c1d",
-            "kid": "010146fe54bc551f2f6c2222ef35e6dd1deb7488ce42819a750c77c993db9808ac8d0a",
-            "uid": "0b7d207767153d9e79fd4d6d5e77b119",
-            "username": "roman2k"
-        },
-        "service": {
-            "hostname": "romanlenegrate.net",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01206ec3de8a6e960f0c8c36a41dbd9b69ecbc09ebe5c548eb91ec0b1d5ef09889050a",
+      "host": "keybase.io",
+      "kid": "012046300602f020dc0c359378794afa6528fdf66e9893a1233fb00aa6c3d6cc79850a",
+      "uid": "0b7d207767153d9e79fd4d6d5e77b119",
+      "username": "roman2k"
     },
-    "ctime": 1488074957,
-    "expire_in": 157680000,
-    "prev": "091adb0062a57c45f89a1fa93abfda152d1cb723eb32807ee7858f4ff9394801",
-    "seqno": 19,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1574845449,
+      "hash": "68b5c00d303d1221374de661228109eb047eef749d958117023fa5895740f878e6ed769860d7bd36dfd13339b6d5fc8398d86eba4cef9ffa49611aa70c54afb5",
+      "hash_meta": "5bea5a13c3470ed0f44e58b836028759ba5d3b838ea827f76a9439ffa8511c25",
+      "seqno": 11029786
+    },
+    "service": {
+      "entropy": "2rWH7iJirwbPyzT8M2KRDGS+",
+      "hostname": "romanlenegrate.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1574845453,
+  "expire_in": 504576000,
+  "prev": "c6eda8c6ef036d4bba03fbfa2047a7efee27098f63192bb4dec3ccfcd26ae027",
+  "seqno": 56,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v2
-
-owGtkllsTUEYx28v1SoSSyIeajsSEalr5mwzU0kfiKUV24slltvZTh2tc27PPW5d
-DUEaoWkEESQN4YEmIraEhEjFmhvVRCIopURSigcSezRqjiXx4NG8TOab//eb///L
-7BrSL1aY91l7ezi2tWl0XtsrFlt6FnfWa8wXWa20XquWPzdZI2Q6TFa7QivVAATQ
-tB1pmYxbFnR0x+a6WtIxLGkLAYVkyMSYS1PHkFBkAY4QJ8QQjGCAKccCUK1Ec1yv
-SgapwPVChRXQBkTnjGIHA4MQgBmxOSIOitAUAIB1zKFQjav9dNShzDGalgnXVzV1
-SP609w/9f/a97heOIaEDhGwELUMQqZwKU9jCkggxCEkkTMvAo2ulUgf+Wurp1drG
-Ek0VMy6X0VyjIH8LaqQnqwIayoQnQwVIBX7oc79G3a8Ow1Rp1B5mU5G+TrLkb1KS
-uZ5Qs1QNGRmkXd/TSqFS8tCN0FBlAsgkFirR5PqUG8ikGyksZGM1JRA9IzNRIgJX
-UsEAsHVqIW5aDiYUOpQYlDmCQksXkDOkG5IZukJKibCFHdNxiEFMDKAWhav1fAUn
-yiitUtC0W+XRcF0gtY1FO/KK+8fyCmMD8uPRN4sVDRz65+/Vfy3o27D0TOK8+WhY
-xUlzftm2e1ePnrBb1mw7PrXrQk64F5d8L9/pNLTvmjvxneyZ0E2mLL4+PRf/FB/e
-1fQsk63I3mh4073q85h7DxfG48/p/h6waNWmLZmbZsfo5obBdQvaC8jMuydHND/e
-h/mH6mI2vuV0WfvHW3f2NoPWyafOregtHjb8SW/C5kFid8669v7cWPdBz+uZ5U7L
-vKbKKeXvpo17cPtaY37ZnEObB794U3Gxq31cp9iau6+FsKPyU4t+qn9jMe8+mD1Q
-+G3kjKKzb48cK8Lh07r8L0dqaxcv33t8w5Xey6O8PY17ZvttL69PWmj19W3PzZo0
-4JI1a9mHiiHGoMmtPwA=
-=jcbV
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRjAGAvAg3Aw1k3h5SvplKP32bpiToSM/sAqmw9bMeYUKp3BheWxvYWTESpcCOMQgxu2oxu8DbUu6A/v6IEen7+4nCY9jGSu03sPM/NJq4CfEIPcYnvsBAF9ZvDLfKlSI9KfHTRFm6Y+1V1JZy9RayI3aAgHCo3NpZ8RAUP79ZBureGM8cCKR46AkXHTbMw6CEjRc79J6008xAOAe7/Jf1Y4nOXfrSxMQ4DhWSdsKdaLKH8PDl03DkOmgDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGMcjdSocczSrNbxn3W3qFZbD0JdH/eXThxheVY36roOo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
